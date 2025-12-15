@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I am Damilola Deborah Oludare👋
+I am an aspiring Cyber Security Analyst
 
-<!--
-**Debbie-CyberTech/Debbie-CyberTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Identity & Access Management (IAM)
+- Governance, Risk and Compliance (GRC)
+- Cyber Security Fundamentals
 
-Here are some ideas to get you started:
+##🌱 I’m currently learning
+- ISC2 Certified in Cybersecurity (CC)
+- ISO 27001 Foundation
+- CompTIA Security+ (in progress)
+  
+## Skills & Interests
+- Cyber security fundamentals
+- Risk assessment & compliance
+- Access control concepts (MFA, RBAC, least privilege)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Career Goal
+- To secure a Cybersecurity Role
+
+## Connect with ME
+- LinkedIn:
